@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Adel<br>
+
+
+
+<br>
+I'm a software developer based in Edo State, Nigeria. I've been coding since I was 13 years old(Currently 18).<br>
+I am proficient in HTML & CSS, Bootstrap, Java, Kotlin, PHP, Android Development, Firebase , Python/Django and a little bit of Swift.
+I am currently a 3rd year computer science student but that wont stop me from building top-notch projects.<br>
+Feel free to look around my profile and exploare my code.
 
 <!--
 **Adel09/Adel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
