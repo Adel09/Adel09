@@ -12,7 +12,7 @@ Feel free to look around my profile and exploare my code.  I love to share my re
 <br>
 
 - 🔭 I’m currently working on <a href="http://kuudi.xyz">kuudi.xyz</a>
-- 🌱 I’m currently learning iOS app development(Swift)
+- 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with frontend web development
 - 💬 Ask me about Android and Django
 - 📫 How to reach me: adelnehikhare@gmail.com and <a href="https://twitter.com/adelnehikhare">Twitter: @adelnehikhare</a>
