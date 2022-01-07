@@ -21,7 +21,7 @@ Feel free to look around my profile and explore my code.  I love to share my res
 <br>
 <p>Personal portfolio: <a href="https://adel.com.ng">adel.com.ng</a></p>
 <p>Follow me on Instagram: <a href="https://instagram.com/adelnehikhare">@adelnehikhare</a></p>
-<p>Contact me on Whatsapp: <a href="https://wa.me/2348114536476">Click Here</a></p>
+<p>Contact me on Whatsapp: <a href="https://wa.me/2348093453242">Click Here</a></p>
 
 <!--
 **Adel09/Adel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
