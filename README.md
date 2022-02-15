@@ -11,7 +11,7 @@ I am currently a 3rd year computer science student but that wont stop me from bu
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
 <br>
 
-- 🔭 I’m currently working on <a href="http://kuudi.xyz">kuudi.xyz</a>
+- 🔭 I’m currently working on something🤷
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with frontend web development
 - 💬 Ask me about Android and Django
