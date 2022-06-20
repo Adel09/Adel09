@@ -12,7 +12,7 @@ Feel free to look around my profile and explore my code.  I love to share my res
 <br>
 
 - 🔭 I’m currently working on something🤷
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning Swift
 - 🤔 I’m looking for help with frontend web development
 - 💬 Ask me about Android and Django
 - 📫 How to reach me: adelnehikhare@gmail.com and <a href="https://twitter.com/adelnehikhare">Twitter: @adelnehikhare</a>
