@@ -7,14 +7,14 @@
 <br>
 I'm a software developer based in Edo State, Nigeria. I've been coding since I was 13 years old(Currently 19).<br>
 I am proficient in HTML & CSS, Bootstrap, Java, Kotlin, Flutter, Android Development, Firebase and Python/Django.
-I am currently a 4th year computer science student but that wont stop me from building top-notch projects.<br>
+I am currently a final year computer science student but that wont stop me from building top-notch projects.<br>
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
 <br>
 
 - 🔭 I’m currently working on something🤷
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning NodeJS
 - 🤔 I’m looking for help with frontend web development
-- 💬 Ask me about Android and Django
+- 💬 Ask me about Flutter and Django
 - 📫 How to reach me: adelnehikhare@gmail.com and <a href="https://twitter.com/adelnehikhare">Twitter: @adelnehikhare</a>
 - 😄 Pronouns: He/Him<br>
 
