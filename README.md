@@ -5,7 +5,7 @@
 
 
 <br>
-I'm a software developer based in Edo State, Nigeria. I've been coding since I was 13 years old(Currently 20).<br>
+I'm a software developer based in Abuja, Nigeria. I've been coding since I was 13 years old(Currently 21).<br>
 I am proficient in HTML & CSS, Bootstrap, Java, Kotlin, Flutter, Android Development, Firebase and Python/Django.
 Completed my Bachelors degree in Computer Science from Afe Babalola University, Ado Ekiti(ABUAD)<br>
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
@@ -21,7 +21,7 @@ Feel free to look around my profile and explore my code.  I love to share my res
 <br>
 <p>Personal portfolio: <a href="https://adel.com.ng">adel.com.ng</a></p>
 <p>Follow me on Instagram: <a href="https://instagram.com/adelnehikhare">@adelnehikhare</a></p>
-<p>Contact me on Whatsapp: <a href="https://wa.me/2348114536476">Click Here</a></p>
+<p>Contact me on Whatsapp: <a href="https://wa.me/2349039455062">Click Here</a></p>
 
 <!--
 **Adel09/Adel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
