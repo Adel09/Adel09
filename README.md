@@ -5,8 +5,8 @@
 
 
 <br>
-I'm a software developer based in Abuja, Nigeria. I've been coding since I was 13 years old(Currently 21).<br>
-I am proficient in HTML & CSS, Bootstrap, Java, Kotlin, Flutter, Android Development, Firebase and Python/Django.
+I'm a senior mobile engineer based in Abuja, Nigeria.<br>
+I've been in mobile development for about 7+ years now with about 4 years of real professional experience. I'm proficient in Dart, Kotlin, Python(Django) and Java..
 Completed my Bachelors degree in Computer Science from Afe Babalola University, Ado Ekiti(ABUAD)<br>
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
 <br>
