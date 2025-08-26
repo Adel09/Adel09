@@ -19,7 +19,7 @@ Feel free to look around my profile and explore my code.  I love to share my res
 - 😄 Pronouns: He/Him<br>
 
 <br>
-<p>Personal portfolio: <a href="https://adel.com.ng">adel.com.ng</a></p>
+<p>Personal portfolio: <a href="https://adel.landercraft.co">adel.landercraft.co</a></p>
 <p>Follow me on Instagram: <a href="https://instagram.com/adelnehikhare">@adelnehikhare</a></p>
 <p>Contact me on Whatsapp: <a href="https://wa.me/2349039455062">Click Here</a></p>
 
