@@ -6,13 +6,13 @@
 
 <br>
 I'm a senior mobile engineer based in Abuja, Nigeria.<br>
-I've been in mobile development for about 7+ years now with about 4 years of real professional experience. I'm proficient in Dart, Kotlin, Python(Django) and Java..
+I've been in mobile development for about 7+ years now with about 5 years of real professional experience. I'm proficient in Dart, Kotlin, Python(Django) and Java..
 Completed my Bachelors degree in Computer Science from Afe Babalola University, Ado Ekiti(ABUAD)<br>
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
 <br>
 
 - 🔭 I’m currently working on something🤷
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NextJS
 - 🤔 I’m looking for help with frontend web development
 - 💬 Ask me about Flutter and Django
 - 📫 How to reach me: adelnehikhare@gmail.com and <a href="https://twitter.com/adelnehikhare">Twitter: @adelnehikhare</a>
