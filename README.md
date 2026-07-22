@@ -5,8 +5,8 @@
 
 
 <br>
-I'm a senior mobile engineer based in Abuja, Nigeria.<br>
-I've been in mobile development for about 7+ years now with about 5 years of real professional experience. I'm proficient in Dart, Kotlin, Python(Django) and Java..
+I'm a senior mobile engineer based in Coventry, United Kingdom.<br>
+I've been in mobile development for about 7+ years now with about 5 years of real professional experience. I'm proficient in Dart, Kotlin, Python(Django) and NextJS..
 Completed my Bachelors degree in Computer Science from Afe Babalola University, Ado Ekiti(ABUAD)<br>
 Feel free to look around my profile and explore my code.  I love to share my resources and expertise with the dev community<br>
 <br>
@@ -19,7 +19,7 @@ Feel free to look around my profile and explore my code.  I love to share my res
 - 😄 Pronouns: He/Him<br>
 
 <br>
-<p>Personal portfolio: <a href="https://adel.landercraft.co">adel.landercraft.co</a></p>
+<p>Personal portfolio: <a href="https://adelnehikhare.com">adelnehikhare.com</a></p>
 <p>Follow me on Instagram: <a href="https://instagram.com/adelnehikhare">@adelnehikhare</a></p>
 <p>Contact me on Whatsapp: <a href="https://wa.me/2349039455062">Click Here</a></p>
 
