@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Adel<br>
 
-<img src="https://user-images.githubusercontent.com/18511990/134471173-74863be1-4361-467e-bb05-b358c957795c.png"> <br>
+<img width="1200" height="400" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/88464ec7-88c6-46b4-8b46-dc61bd50ce14" />
+ <br>
 
 
 
